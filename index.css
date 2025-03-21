@@ -156,8 +156,5 @@ html, body {
     .carousel-caption p {
         font-size: 0.9rem; 
     }
-    .carousel img {
-        object-fit: cover; 
-        height: 300px; 
-    }
+    
 }
